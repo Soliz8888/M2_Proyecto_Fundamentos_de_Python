@@ -13,9 +13,9 @@ Descripción
 Este programa determina en cuál de los cuatro cuadrantes del plano cartesiano se encuentra un punto basado en sus coordenadas (X, Y). El programa verifica que ninguna coordenada sea 0.
 ### Instrucciones
 1. Ejecutar el programa.
-2. Ingresa una palabra cuando se te solicite.
-3. El programa te dirá si la palabra es correcta o te indicará si faltan o sobran letras.
-4. Ingresa las coordenadas X y Y cuando se te solicite.
-5. El programa te dirá en cuál cuadrante se encuentra el punto.
+2. Ingresar una palabra cuando se te solicite.
+3. El programa indicarád si la palabra es correcta o indicará si faltan o sobran letras.
+4. Ingresar las coordenadas X y Y cuando se solicite.
+5. El programa dirá en cuál cuadrante se encuentra el punto.
 
 
